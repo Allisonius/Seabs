@@ -170,6 +170,11 @@ When the above abstract function is used to guide solution enumeration, the foll
 
 The set of `elem` values for each list are given below the graphical representation of the solution. Across **all** 15 solutions, **none** of these sets repeat.
 
+# Publications 
+
+* "Solution Enumeration Abstraction -- A Modeling Idiom to Enhance a Lightweight Formal Method."
+    Allison Sullivan, Darko Marinov and Sarfraz Khurshid. *in The 21st International Conference on Formal Engineering Methods (ICFEM 2019).*
+
 # License
 
 MIT License, see `LICENSE` for more information.
